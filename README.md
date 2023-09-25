@@ -8,7 +8,7 @@ ktor api
 
 koin dependency injection
 
-note : this project not have swift code
+note : this project not include swift code
 
 
 database api : https://www.themoviedb.org
