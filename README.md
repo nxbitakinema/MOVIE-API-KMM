@@ -1,6 +1,6 @@
-![main](https://github.com/nxbitakinema/MOVIE-API-KMM/assets/93174599/50bc95df-808e-4af5-a981-a8b26847e7d6) ![detail](https://github.com/nxbitakinema/MOVIE-API-KMM/assets/93174599/5160b20f-5ec4-4d91-bcd2-f0255f095a3b)
+![main](https://github.com/nxbitakinema/MOVIE-API-KMM/assets/93174599/e5ba0cf6-20ff-42d8-ac7c-ae0d21be050c) ![detail](https://github.com/nxbitakinema/MOVIE-API-KMM/assets/93174599/126d655a-94f7-47a0-8b48-c609d0231973)
 
-used ___
+used __________________________________________________________
 
 kotlin multiplatform mobile
 
@@ -8,9 +8,8 @@ ktor api
 
 koin dependency injection
 
-note : this project not include swift code
-
-
 database api : https://www.themoviedb.org
 
 learn form https://github.com/patrickdip/KMMMovieApp
+
+note : this project not include swift code
